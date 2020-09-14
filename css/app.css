@@ -16,6 +16,8 @@ a {
 
 body {
 	background: url(images/crs.jpg);
+	border: 20px solid teal;
+	padding: 20px;
 }
 
 #summary {
