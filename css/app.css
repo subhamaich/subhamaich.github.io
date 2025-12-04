@@ -39,6 +39,14 @@ body {
 	color: purple;
 }
 
+#Github {
+	color: DarkSlateGray;
+}
+
+#Leetcode {
+	color: olive;
+}
+
 .hyperlink {
 	background: brown;
 }
@@ -56,3 +64,4 @@ body {
 /*#float {
 	float: left;
 }*/
+
